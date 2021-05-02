@@ -7,6 +7,7 @@
 - [Github](https://github.com/jacob1500)
 - [Hack the box](https://app.hackthebox.eu/profile/542087)
 - [Discord](https://discord.com/users/785597600639746088)
+- [IT Discord server](https://discord.gg/yUBVSaD2Mq)
 - [Twitter](https://twitter.com/Jacob45570940)
 - [Reddit](https://www.reddit.com/user/jacob1550)
 - [Twitch](https://www.twitch.tv/jacob_155)
