@@ -7,8 +7,6 @@
 - [Github](https://github.com/jacob1500)
 - [Matrix](https://matrix.to/#/@j1500:matrix.org)
 - [Twitter](https://twitter.com/Jacob45570940)
-- [Reddit](https://www.reddit.com/user/jacob1550)
-- [Twitch](https://www.twitch.tv/jacob_155)
 - [Spotify](https://open.spotify.com/user/3yvjqvxqzzqd0geex7inq04jx?si=GWqWzKKpT62xGv1Tw73saA)
 
 
