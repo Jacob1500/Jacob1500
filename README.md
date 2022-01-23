@@ -2,15 +2,6 @@
 
 # Jacob
 
-![Twitter Follow](https://img.shields.io/twitter/follow/_j155?style=social)
-
-
-## Social Media
-
-- [Github](https://github.com/jacob1500)
-- [Spotify](https://open.spotify.com/user/3yvjqvxqzzqd0geex7inq04jx?si=GWqWzKKpT62xGv1Tw73saA)
-
-
 <!--
 **Jacob1500/Jacob1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
