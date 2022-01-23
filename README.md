@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # Jacob
+![SOL](https://img.shields.io/badge/SOL-2jepdNFoNf22qNP6x8a5QMAnEcWsnrsg4Va1dShDnkuB-blue?style=for-the-badge&link=https://solscan.io/account/2jepdNFoNf22qNP6x8a5QMAnEcWsnrsg4Va1dShDnkuB&?labelColor=ff00ff)
 
 <!--
 **Jacob1500/Jacob1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
